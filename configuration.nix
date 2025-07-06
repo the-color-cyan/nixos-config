@@ -86,6 +86,8 @@
     hyprland
     waybar
     kitty
+    zsh
+    fish
   ];
 
   # Hyprland
